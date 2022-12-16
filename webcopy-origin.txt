@@ -1,0 +1,2140 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://noithat9.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-16.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-15.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-14.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-13.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-12.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-11.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-10.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-9.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-8.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/chinh-sach-bao-hanh/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\chinh-sach-bao-hanh\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/chinh-sach-bao-mat-thong-tin/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\chinh-sach-bao-mat-thong-tin\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/chinh-sach-doi-tra/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\chinh-sach-doi-tra\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/chinh-sach-thanh-toan/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\chinh-sach-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/chinh-sach-van-chuyen/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\chinh-sach-van-chuyen\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-8.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-10.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-11.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-9.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\index-12.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/page/2/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\page\2\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/page/2/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/page/2/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\page\2\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/page/2/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\page\2\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/cua-hang/page/2/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\cua-hang\page\2\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/ban-ghe-cafe/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\ban-ghe-cafe\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/ban-ghe-cafe/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\ban-ghe-cafe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/ghe-bar/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\ghe-bar\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/ghe-bar/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\ghe-bar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-8.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-10.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-11.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-9.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\index-12.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-8.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-giam-doc/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-giam-doc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-hop/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-hop\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-hop/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-hop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-lam-viec-tai-nha/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-lam-viec-tai-nha\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-lam-viec-tai-nha/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-lam-viec-tai-nha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\index-8.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/ban-van-phong/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\ban-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/page/2/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\page\2\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/page/2/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/page/2/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\page\2\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/page/2/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\page\2\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ban-lam-viec/page/2/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ban-lam-viec\page\2\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/ghe-bang-cho/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\ghe-bang-cho\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/ghe-bang-cho/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\ghe-bang-cho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/ghe-giam-doc/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\ghe-giam-doc\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/ghe-giam-doc/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\ghe-giam-doc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/ghe-xoay-van-phong/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\ghe-xoay-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/ghe-van-phong/ghe-xoay-van-phong/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\ghe-van-phong\ghe-xoay-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/khac/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\khac\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/khac/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/sofa-lounge/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\sofa-lounge\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/sofa-lounge/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\sofa-lounge\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/tu-locker/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\tu-locker\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/tu-locker/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\tu-locker\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/tu-quan-ao/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\tu-quan-ao\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/tu-quan-ao/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\tu-quan-ao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/tu-tai-lieu/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\tu-tai-lieu\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-sat/tu-tai-lieu/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-sat\tu-tai-lieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-van-phong/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-van-phong/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-van-phong/hoc-tu-di-dong/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-van-phong\hoc-tu-di-dong\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-van-phong/hoc-tu-di-dong/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-van-phong\hoc-tu-di-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-van-phong/tu-tai-lieu-van-phong/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-van-phong\tu-tai-lieu-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/danh-muc/tu-van-phong/tu-tai-lieu-van-phong/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\danh-muc\tu-van-phong\tu-tai-lieu-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m4-gaia-ga14-t-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m4-gaia-ga14-t-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-atlas-at16-t-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-atlas-at16-t-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-d-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-d-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-gaia-ga16-t-015/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-gaia-ga16-t-015\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-iris-ir16-d-015/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-iris-ir16-d-015\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-mia-mia16-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-mia-mia16-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-giam-doc-1m6-otus-ot16-g-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-giam-doc-1m6-otus-ot16-g-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-1m2-atlas-at-d-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-1m2-atlas-at-d-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-oscar-u9/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-oscar-u9\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2-ryder/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2-ryder\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/?add-to-cart=98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-chan-sat-tam-giac-1m2/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-chan-sat-tam-giac-1m2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/?add-to-cart=96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/ban-lam-viec-van-phong-1m2-classic-cl12-084/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\ban-lam-viec-van-phong-1m2-classic-cl12-084\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-2.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-7.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-4.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-3.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-1.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-5.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/?add-to-cart=116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\index-6.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/san-pham/combo-ban-giam-doc-kem-tu-phu-1m8-iris01/feed/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\san-pham\combo-ban-giam-doc-kem-tu-phu-1m8-iris01\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat9.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/thanh-toan/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://noithat9.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/UTM Avo.svg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\UTM Avo.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\UTM Avo.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/UTM Avo.woff
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\UTM Avo.woff
+Content Type: application/x-font-woff
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome-child/fonts/utm-avobold.woff
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome-child\fonts\utm-avobold.woff
+Content Type: application/x-font-woff
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/ban-giam-doc-AT12-D-084-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\ban-giam-doc-AT12-D-084-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/ban-giam-doc-AT12-D-084-2.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\ban-giam-doc-AT12-D-084-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-AT16-t-084-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-AT16-t-084-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-AT16-t-084.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-AT16-t-084.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-ga14-t-084-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-ga14-t-084-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-ga14-t-084.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-ga14-t-084.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-GA16-D-084-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-GA16-D-084-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-GA16-D-084.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-GA16-D-084.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-ga16-t-015-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-ga16-t-015-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-ga16-t-015.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-ga16-t-015.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-ir16-d-015-3-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-ir16-d-015-3-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-ir16-d-015-3.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-ir16-d-015-3.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-iris01-30-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-iris01-30-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-iris01-30.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-iris01-30.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-le14-d-015-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-le14-d-015-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-le14-d-015-1.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-le14-d-015-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-mia16-084-5-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-mia16-084-5-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-mia16-084-5.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-mia16-084-5.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-OT16-G-084-4-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-OT16-G-084-4-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-giam-doc-OT16-G-084-4.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-giam-doc-OT16-G-084-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/ban-lam-viec-chan-sat-oscar-u9-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\ban-lam-viec-chan-sat-oscar-u9-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/ban-lam-viec-chan-sat-oscar-u9.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\ban-lam-viec-chan-sat-oscar-u9.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-lam-viec-ga12-d-084-4-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-lam-viec-ga12-d-084-4-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-lam-viec-ga12-d-084-4.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-lam-viec-ga12-d-084-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/ban-lam-viec-osb12-d-029-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\ban-lam-viec-osb12-d-029-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/ban-lam-viec-osb12-d-029.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\ban-lam-viec-osb12-d-029.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-lam-viec-RYB12-T-015-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-lam-viec-RYB12-T-015-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-lam-viec-RYB12-T-015-2.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-lam-viec-RYB12-T-015-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-lam-viec-RYU12-T-Y-029-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-lam-viec-RYU12-T-Y-029-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-lam-viec-RYU12-T-Y-029-1.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-lam-viec-RYU12-T-Y-029-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-van-phong-lab-CL12-084-12-247x296.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-van-phong-lab-CL12-084-12-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/Ban-van-phong-lab-CL12-084-12.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\Ban-van-phong-lab-CL12-084-12.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/banner-govi-21-230x400.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\banner-govi-21-230x400.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/banner-govi-21.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\banner-govi-21.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/bao-hanh-12-thang-100x100.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\bao-hanh-12-thang-100x100.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/bao-hanh-12-thang.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\bao-hanh-12-thang.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/bg-01.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\bg-01.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/bg-categories.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\bg-categories.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/bg-commitment.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\bg-commitment.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/bg-footer.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\bg-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/chinh-sach.jpg
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\chinh-sach.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/hotline.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\hotline.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/hotline2.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\hotline2.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/lauchgovi.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\lauchgovi.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/logo-govi.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\logo-govi.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/van-chuyen-trong-24h-100x100.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\van-chuyen-trong-24h-100x100.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-content/uploads/2019/01/van-chuyen-trong-24h.png
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-content\uploads\2019\01\van-chuyen-trong-24h.png
+Content Type: image/png
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=0c7c9b9a74ceb717d6eb
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=4b876f1ff2e5c93b8fb1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://noithat9.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-bao-mat-thong-tin%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-bao-mat-thong-tin%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-doi-tra%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-doi-tra%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-van-chuyen%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fchinh-sach-van-chuyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-chan-sat-vuong-cao-cap-1m2-oscar-b-osb12-d-029%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m4-gaia-ga14-t-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m4-gaia-ga14-t-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-atlas-at16-t-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-atlas-at16-t-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-gaia-ga16-d-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-gaia-ga16-d-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-gaia-ga16-t-015%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-gaia-ga16-t-015%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-iris-ir16-d-015%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-iris-ir16-d-015%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-mia-mia16-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-mia-mia16-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-otus-ot16-g-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-giam-doc-1m6-otus-ot16-g-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-1m2-atlas-at-d-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-1m2-atlas-at-d-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-cao-cap-1m2-gaia-ga12-d-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-cao-cap-1m4-leto-le14-d-015%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-oscar-u9%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-oscar-u9%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-tam-giac-1m2%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-tam-giac-1m2%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-tam-giac-1m2-ryder%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-chan-sat-tam-giac-1m2-ryder%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-van-phong-1m2-classic-cl12-084%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fban-lam-viec-van-phong-1m2-classic-cl12-084%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fcombo-ban-giam-doc-kem-tu-phu-1m8-iris01%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fsan-pham%2Fcombo-ban-giam-doc-kem-tu-phu-1m8-iris01%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fthanh-toan%2F
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat9.webtudong8giay.com%2Fthanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/171
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\171
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/174
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\174
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/176
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\176
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/178
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\178
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/180
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\180
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/273
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\273
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/100
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\100
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/102
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\102
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/104
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\104
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/106
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\106
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/108
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\108
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/110
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\110
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/112
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\112
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/114
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\114
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/116
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\116
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/82
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\82
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/88
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\88
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/90
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\90
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/92
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\92
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/94
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\94
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/96
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\96
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product/98
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product\98
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/25
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\25
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/28
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\28
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/33
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\33
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/34
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\34
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/35
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\35
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/37
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/38
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\38
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/39
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\39
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/40
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\40
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/41
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\41
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/42
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\42
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/43
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\43
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/wp-json/wp/v2/product_cat/44
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\wp-json\wp\v2\product_cat\44
+Content Type: application/json
+
+Uri: https://noithat9.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\noithat9.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
